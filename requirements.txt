@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 ipykernel
 pyyaml
+dvc
+mlflow
+imblearn

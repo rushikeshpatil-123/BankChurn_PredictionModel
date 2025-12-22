@@ -174,6 +174,7 @@ X_train,X_test,y_train,y_test = preprocessing(df)
 
 model_performance = model_build(X_train,X_test,y_train,y_test)
 
+
 #print(df)
 #print(numerical_stats_report)
 #print(categorical_stats_report)
