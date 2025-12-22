@@ -38,5 +38,4 @@ jobs:
       run: 
       
         python main.py
-
-py
+        
